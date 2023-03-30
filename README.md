@@ -8,7 +8,7 @@ PyWebNet is still under development and does not include any specific features o
 
 ## Contributing
 
-I welcome contributions from other developers! If you would like to contribute to PyWebNet, please contact me at [vagagn33@gmail.com](vagagn33@gmail.com). Thank you for your interest in PyWebNet!
+I welcome contributions from other developers! If you would like to contribute to PyWebNet, please contact me at [vagagn33@gmail.com](mailto:vagagn33@gmail.com). Thank you for your interest in PyWebNet!
  
 ## License
 
